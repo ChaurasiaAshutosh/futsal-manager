@@ -155,3 +155,11 @@ This keeps the project:
 flutter pub get
 flutter run
 
+### ✅ Completed Setup
+- Flutter SDK installed
+- Git & SSH configured
+- Branch strategy in place (`main` / `dev`)
+- Java 17 installed
+- Android SDK command-line tools installed
+- Android platform tools, build tools, and API 34 installed
+- Android SDK PATH configured (zsh)
